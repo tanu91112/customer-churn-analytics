@@ -1,0 +1,4 @@
+# Core dependencies for data processing and PostgreSQL integration
+pandas
+sqlalchemy
+psycopg2-binary
