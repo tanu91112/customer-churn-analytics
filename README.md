@@ -27,17 +27,6 @@ Analyze customer shopping behavior and build an interactive system to understand
 - Customer Segmentation distribution
 - Top customers by purchase amount
 
-# 📁 Project Structure
-customer-analytics-project/
-  ├── app.py
-  ├── requirements.txt
-  ├── customer_shopping_behavior.csv
-  ├── README.md
-  ├── sql/
-  │    └── queries.sql
-  └── images/
-       └── dashboard.png
-
 # ▶️ Run Locally
 - Install dependencies:
   pip install -r requirements.txt
