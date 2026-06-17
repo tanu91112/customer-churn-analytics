@@ -27,6 +27,12 @@ Analyze customer shopping behavior and build an interactive system to understand
 - Customer Segmentation distribution
 - Top customers by purchase amount
 
+  <h2>📈 Churn Risk Analysis Dashboard</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanu91112/customer-churn-analytics/main/Image/Churn_Risk.png" alt="Churn Risk Dashboard" width="900"/>
+</p>
+
 # ▶️ Run Locally
 - Install dependencies:
   pip install -r requirements.txt
