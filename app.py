@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 
 # ---------------- LOGIN SYSTEM ----------------
-
 USER_CREDENTIALS = {
     "admin": "1234",
     "tanu": "password"
